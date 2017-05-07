@@ -18,11 +18,17 @@ textarea,
     font-family: 'Shadows Into Light', cursive;
     font-size: 3em;
     margin: 0;
+    color: white;
 }
 
 .bg-red {
         background-color: #e92b24;
 }
+
+.c-blue {
+    color: #6767f8;
+}
+
 .grid-center {
     max-width: 50em;
     margin: auto;
