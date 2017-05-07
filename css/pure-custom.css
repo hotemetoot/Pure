@@ -1,0 +1,36 @@
+html, button, input, select, textarea,
+    .pure-g [class *= "pure-u"] {
+        /* Set your content font stack here: */
+        font-family: 'Open Sans', sans-serif;
+    }
+
+.banner {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3em;
+    padding: .33em;
+    margin: 0;
+}
+
+.background-red {
+    background-color: #e92b24;
+}
+
+.grid-center {
+    max-width: 50em;
+    margin: auto;
+}
+
+.padding-1 {
+    padding: 1em;
+}
+
+.card {
+    height: 15em;
+    width: 10em;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
