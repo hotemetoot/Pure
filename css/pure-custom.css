@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+mark {
+    border-style: solid;
+    border-width: thin;
+}
+
 html,
 button,
 input,
@@ -22,18 +27,14 @@ textarea,
 }
 
 .bg-red {
-        background-color: #e92b24;
+    background-color: #e92b24;
 }
 
 .c-blue {
-    color: #6767f8;
+    color: #6262c9;
 }
 
 .grid-center {
     max-width: 50em;
     margin: auto;
-}
-
-.p1 {
-    padding: .5em;
 }
